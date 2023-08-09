@@ -1,4 +1,4 @@
-# Copy Text and Image URLs Extension
+# Copy Text and Image URLs Extension(for ChatGPT)
 
 このChrome拡張機能は、ウェブページ上で選択したテキストと画像のURLを一括してクリップボードにコピーする機能を提供します。マークダウン形式で画像のリンクも取得できるため、ChatGPTで一気に画像付きWebサイトを翻訳・難易化したいときに役立ちます。
 
