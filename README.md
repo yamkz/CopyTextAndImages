@@ -1,8 +1,10 @@
 # Copy Text and Image URLs Extension
 
-このChrome拡張機能は、ウェブページ上で選択したテキストと画像のURLを一括してクリップボードにコピーする機能を提供します。マークダウン形式で画像のリンクも取得できるため、ブログ執筆やドキュメント作成の効率を向上させます。
+このChrome拡張機能は、ウェブページ上で選択したテキストと画像のURLを一括してクリップボードにコピーする機能を提供します。マークダウン形式で画像のリンクも取得できるため、ChatGPTで一気に画像付きWebサイトを翻訳・難易化したいときに役立ちます。
 
-![image](https://github.com/yamkz/CopyTextAndImages/assets/57112629/72e472bd-2eee-45ac-958c-c1b90853ab63)
+![image](https://github.com/yamkz/CopyTextAndImages/assets/57112629/b2bab745-b85b-4f0c-a62e-ec756f16b8cd)
+
+
 
 ## インストール方法
 
