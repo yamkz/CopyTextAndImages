@@ -1,0 +1,2 @@
+# CopyTextAndImages
+Chrome拡張機能で選択したテキストと画像URLをクリップボードにコピーします。
